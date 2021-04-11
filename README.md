@@ -11,7 +11,7 @@ Contact with me via these platforms!
  <a href="mailto:cerenbdk@gmail.com" target="_blank" rel="nofollow"><img alt="Ceren's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CerenBdk&layout=compact&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CerenBdk&layout=compact&theme=light)
 
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
