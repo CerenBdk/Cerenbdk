@@ -14,9 +14,9 @@ Contact with me via these platforms!
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CerenBdk&layout=compact&theme=light)
 
 ## 🛠 Technologies & Tools 
-<img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.NETCore-v?style=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white"></img>
 
