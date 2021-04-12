@@ -19,6 +19,6 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&logoColor=white"></img>
+<img src="	https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/MVC-black?style=for-the-badge&logo=mvc&logoColor=white"></img>
 
