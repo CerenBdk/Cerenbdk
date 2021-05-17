@@ -17,7 +17,7 @@ Contact me !
 
 ## OS
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white"></img>
-<img src="https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MacOS X-black?style=for-the-badge&logo=MAcOS&logoColor=white"></img>
 
 ## Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
