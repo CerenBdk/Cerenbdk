@@ -10,6 +10,7 @@ Contact me !
   <a href="https://www.linkedin.com/in/ceren-budak-908b08125/" target="_blank" rel="nofollow"><img alt="Ceren's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:cerenbdk@gmail.com" target="_blank" rel="nofollow"><img alt="Ceren's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=CerenBdk&show_icons=true&theme=default)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CerenBdk&layout=compact&theme=light)
 
