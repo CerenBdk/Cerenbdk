@@ -32,8 +32,8 @@ Contact me !
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## IDE
-<img src="https://img.shields.io/badge/Visual_Studio_2019-black?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_2012-black?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_2019-black?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Visual_Studio_2012-black?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=white"></img>
